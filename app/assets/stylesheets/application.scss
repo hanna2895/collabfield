@@ -17,3 +17,9 @@
  
 //= require jquery
 //= require bootstrap-sprockets
+
+// Variables
+@import "base/variables";
+
+// Partials - main css files
+@import 'partials/layout/*';
